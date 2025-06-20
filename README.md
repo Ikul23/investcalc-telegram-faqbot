@@ -1,6 +1,5 @@
-investcalc-telegram-faqbot/
-├── index.php <-- Основной обработчик Webhook
-├── composer.json
-├── .env.example
-├── logs/ <-- Логи бота
-└── README.md
+faq-telegram-bot/
+├── package.json
+├── index.js
+├── .gitignore
+├── README.md
